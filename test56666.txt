@@ -3,6 +3,6 @@ adfadf
 	#公司代码特征
         "Copyright sss公司": {},
         # 外部邮箱
-		"mail.zsss6.com": {}
+		"mail.sdfadf.com": {}
     }
 }
