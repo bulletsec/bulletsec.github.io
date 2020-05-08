@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+ateastaetatetaata
+=======
 dadfb#e5��R�yT�&�({2�DSv[z3[>r3�1�۫�kgib�
 ^A�X2^N4.��D�
 ldjfalsf
@@ -25,3 +28,4 @@ df
 adf
 ceshiceshiceshiceshiceshiceshiceshiceshiceshiceshiceshiceshiceshiv
 sdfadfad
+>>>>>>> c909976611a715cc6c268f76cc7285ab11d1b8af
